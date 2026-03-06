@@ -3,7 +3,8 @@
  * Plugin Name: Rocket Martue Post Importer
  * Description: REST API 経由で 任意のサイトの投稿を開発環境にインポートします。管理画面 → ツール → RM Post インポート から実行してください。
  * Version: 1.0.0
- * Author: Dev
+ * Author: Rocket Martue
+ * Plugin URI: https://github.com/rocket-martue/rocket-martue-post-importer
  * License: GPL-2.0+
  *
  * @package Rocket_Martue_Post_Importer
